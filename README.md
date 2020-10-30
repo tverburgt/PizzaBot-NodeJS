@@ -1,6 +1,6 @@
-###Pizzabot
+### Pizzabot
 
-Pizzabot wil  deliver pizzas to all the houses in a neighborhood. In more specific terms, given a grid (where each point
+Pizzabot will deliver pizzas to all the houses in a neighborhood. In more specific terms, given a grid (where each point
 on the grid is one house) and a list of points representing houses in need of pizza delivery, return a list of
 instructions for getting Pizzabot to those locations and delivering. An instruction is one of:
 N: Move north
@@ -21,11 +21,11 @@ In other words: move east once and north thrice; drop a pizza; move east thrice 
 once; drop a final pizza.
 
 
-###Requirements
+### Requirements
 
 You will need a NodeJS environment on your system.
 
-###Run
+### Run
 
 1. Access Pizzabot file via command line
 2. Run npm i 
@@ -34,7 +34,7 @@ You will need a NodeJS environment on your system.
 Alternatively you can run npm start "5x5 (0, 0)(1, 3)(4,4)(4, 2)(4, 2)(0, 1)(3, 2)(2, 3)(4, 1)"
 
 
-###Testing
+### Testing
 
 1. Run npm test
 
